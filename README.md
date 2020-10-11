@@ -4,7 +4,7 @@ This ReadMe file is intended to provide a guide for administrators / hands-on te
 
 The files in this repository were used to configure the network depicted below.
 
-[ https://github.com/forrestaj64/AZURE_Docker_DVWA_ELK/blob/main/Images/ELK_diagram.png ]
+[ https://github.com/forrestaj64/AZURE_Docker_DVWA_ELK/blob/main/Images/ELK_Diagram.png ]
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. 
 Alternatively, select portions of a comprehensive playbook may be used to install only certain pieces of it, such as Filebeat.
