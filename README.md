@@ -4,7 +4,7 @@ This ReadMe file is intended to provide a guide for administrators / hands-on te
 
 The files in this repository were used to configure the network depicted below.
 
-[ https://github.com/forrestaj64/AZURE_Docker_DVWA_ELK/blob/main/Images/ELK_diagram.pdf ]
+[ https://github.com/forrestaj64/AZURE_Docker_DVWA_ELK/main/Images/ELK_diagram.pdf ]
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. 
 Alternatively, select portions of a comprehensive playbook may be used to install only certain pieces of it, such as Filebeat.
@@ -135,7 +135,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-[ https://github.com/forrestaj64/AZURE_Docker_DVWA_ELK/blob/main/Images/docker_ps_elk_server.png ]
+[ https://github.com/forrestaj64/AZURE_Docker_DVWA_ELK/main/Images/docker_ps_elk_server.png ]
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
@@ -222,7 +222,7 @@ Verify that you can see your beats in Kibana console
 
 http://20.37.244.38:5601/app/kibana#/management/kibana/index_patterns?_g=()
 
-[ https://github.com/forrestaj64/AZURE_Docker_DVWA_ELK/blob/main/Images/Two_Beats_in_Kibana.png ]
+[ https://github.com/forrestaj64/AZURE_Docker_DVWA_ELK/main/Images/Two_Beats_in_Kibana.png ]
 
 You can now customise your Space (Dashboard) to visualise the metrics and data to best provide your needs in management of your applications and infrastructure.
 
